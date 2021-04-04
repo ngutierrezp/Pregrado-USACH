@@ -1,5 +1,5 @@
 # Pregrado-USACH
-Repositorio de cursos teóricos de la carrera de Ingeniería Civil Informática (malla año 2013)
+Repositorio de cursos teóricos de la carrera de Ingeniería Civil Informática (malla año 2012)
 
 En la siguiente Carpeta de Drive se encuentran algunos de los cursos de la malla Informáica Civil
 
